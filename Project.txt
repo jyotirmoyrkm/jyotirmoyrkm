@@ -1,0 +1,12 @@
+#Temparature conversion in python
+c=int(input("Enter temparature in celsius:\n"))
+f=c*(9/5)+32
+print("The temparature in Fahrenheit:\n",int(f))
+
+'''
+Output:-
+Enter temparature in celsius:
+0
+The temparature in Fahrenheit:
+ 32
+'''
